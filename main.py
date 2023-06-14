@@ -1,4 +1,4 @@
-from two_sum import twoSum
+from week1.two_sum import twoSum
 
 if __name__ == '__main__':
     assert twoSum(nums = [2,7,11,15], target = 9) == [0,1]
