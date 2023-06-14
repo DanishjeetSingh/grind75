@@ -1,4 +1,4 @@
-# grind75
+# [grind75](https://www.techinterviewhandbook.org/grind75)
 
 ## Week 1
 
