@@ -1,2 +1,7 @@
 # grind75
-Solutions to the famous Blind75 list on Leetcode
+
+## Week 1
+
+| Problem               | Status | 
+|-----------------------|--------|
+| [Two Sum](two_sum.py) | ✅      |
