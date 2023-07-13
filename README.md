@@ -10,6 +10,6 @@
 
 ## Decided to throw in some dynamic programming questions in here as well.
 
-| Problem                                            | Status | 
-|----------------------------------------------------|--------|
-| [Climb Stairs](dp/climb_stairs.py)                 | ✅      | 
+| Problem                                            | Status        | 
+|----------------------------------------------------|---------------|
+| [Climb Stairs](dp/climb_stairs.py)                 | Missing Tests | 
