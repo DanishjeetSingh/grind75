@@ -10,7 +10,8 @@
 
 ## Decided to throw in some dynamic programming questions in here as well.
 
-| Problem                            | Status        | 
-|------------------------------------|---------------|
-| [Climb Stairs](dp/climb_stairs.py) | Missing Tests |
-| [Fibonacci Number](dp/fib.py)      | Missing Tests |
+| Problem                                    | Status        | 
+|--------------------------------------------|---------------|
+| [Climb Stairs](dp/climb_stairs.py)         | Missing Tests |
+| [Fibonacci Number](dp/fib.py)              | Missing Tests |
+| [N-th Tribonacci Number](dp/tribonacci.py) | Missing Tests |
